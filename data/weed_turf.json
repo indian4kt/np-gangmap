@@ -26,3 +26,19 @@
 		]
 	}
 ]
+[
+  {
+    "title": "6Pacc East Coast Crips",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "FF4500",
+    "fillcolor": "FFA07A",
+    "latlngarray": [
+      {"lat": 17.609, "lng": -73.344},
+      {"lat": 21.850, "lng": -72.558},
+      {"lat": 19.719, "lng": -74.831},
+      {"lat": 25.695, "lng": -74.299}
+    ]
+  }
+]
