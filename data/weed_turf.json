@@ -26,3 +26,19 @@
 		]
 	}
 ]
+[
+  {
+    "title": "Fudge Lane & Amarillo Vista Area",
+    "notes": "Approximate bounding box covering both Fudge Lane and Amarillo Vista",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "FF4500",
+    "fillcolor": "FFA07A",
+    "latlngarray": [
+      {"lat": -72.15, "lng": 20.75},
+      {"lat": -72.00, "lng": 20.75},
+      {"lat": -72.00, "lng": 21.25},
+      {"lat": -72.15, "lng": 21.25}
+    ]
+  }
+]
